@@ -4,7 +4,7 @@ using TestProject.Fundamentals;
 namespace UnitTestProject
 {
     [TestFixture]
-    public class ReservationTest
+    public class ReservationTests
     {
         [Test]
         public void CanBeCancelledBy_UserIsAdmin_ReturnsTrue()
